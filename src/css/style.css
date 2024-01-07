@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+}
+header {
+  align-items: center;
+  background-color:burlywood
+}
+header, nav, main, footer {
+  margin: 0;
+  padding: 20px;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+@media (max-width: 600px) {
+  .container {
+      width: 100%;
+  }
+}
+
+
+nav {
+  background-color: #af9494;
+  color: #fff;
+  padding: 15px;
+}
+
+
+main {
+  padding: 20px;
+  background-color: #fff;
+}
+
+h2 {
+  color: #333;
+}
+
+p {
+  color: #666;
+}
+
+img {
+  align-items: center;
+  max-width: 30%;
+  height: auto;
+}
