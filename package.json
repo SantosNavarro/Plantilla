@@ -23,6 +23,4 @@
     "posthtml": "^0.16.6",
     "react-cookie-consent": "^9.0.0"
   },
-  "main": "main.js",
-  "description": ""
-}
+ }
